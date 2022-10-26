@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Text;
 
-namespace Finns_kanske_i_sjön_Tim_och_Arvid_GH
+namespace Finns_kanske_i_sjön_Tim_och_Arvid_G
 {
     internal class Program
     {
@@ -85,12 +85,10 @@ namespace Finns_kanske_i_sjön_Tim_och_Arvid_GH
                 Deck.Remove(Deck[card]);
 
             }
-            CHand.Sort();
-            CHand.Sort();
-            PHand.ForEach(i => Console.Write("{0}\t", i));
+            /*PHand.ForEach(i => Console.Write("{0}\t", i));
             Console.WriteLine("---");
-            CHand.ForEach(i => Console.Write("{0}\t", i));         // <-- DEBUG/Test kod
-            /*Console.WriteLine("---");
+            CHand.ForEach(i => Console.Write("{0}\t", i));          <-- DEBUG/Test kod
+            Console.WriteLine("---");
             Deck.ForEach(i => Console.Write("{0}\t", i));*/
         }
     }

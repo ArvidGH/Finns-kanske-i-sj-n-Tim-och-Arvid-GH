@@ -1,0 +1,5 @@
+C:\Users\arvid.gunnerlinghul\source\repos\Finns kanske i sjön Tim och Arvid GH\Finns kanske i sjön Tim och Arvid GH\obj\Debug\net6.0\Finns kanske i sjön Tim och Arvid GH.csproj.AssemblyReference.cache
+C:\Users\arvid.gunnerlinghul\source\repos\Finns kanske i sjön Tim och Arvid GH\Finns kanske i sjön Tim och Arvid GH\obj\Debug\net6.0\Finns kanske i sjön Tim och Arvid GH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvid.gunnerlinghul\source\repos\Finns kanske i sjön Tim och Arvid GH\Finns kanske i sjön Tim och Arvid GH\obj\Debug\net6.0\Finns kanske i sjön Tim och Arvid GH.AssemblyInfoInputs.cache
+C:\Users\arvid.gunnerlinghul\source\repos\Finns kanske i sjön Tim och Arvid GH\Finns kanske i sjön Tim och Arvid GH\obj\Debug\net6.0\Finns kanske i sjön Tim och Arvid GH.AssemblyInfo.cs
+C:\Users\arvid.gunnerlinghul\source\repos\Finns kanske i sjön Tim och Arvid GH\Finns kanske i sjön Tim och Arvid GH\obj\Debug\net6.0\Finns kanske i sjön Tim och Arvid GH.csproj.CoreCompileInputs.cache
