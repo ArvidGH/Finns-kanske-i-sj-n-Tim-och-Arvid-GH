@@ -6,9 +6,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Compile Include="C:\Users\arvid.gunnerlinghul\Desktop\Finns i sjön\Check.cs" Link="Check.cs" />
-  </ItemGroup>
-
 </Project>

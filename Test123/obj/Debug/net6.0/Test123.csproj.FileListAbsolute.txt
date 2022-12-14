@@ -13,3 +13,18 @@ C:\Users\arvid.gunnerlinghul\source\repos\Finns kanske i sjön Tim och Arvid GH\
 C:\Users\arvid.gunnerlinghul\source\repos\Finns kanske i sjön Tim och Arvid GH\Test123\obj\Debug\net6.0\Test123.pdb
 C:\Users\arvid.gunnerlinghul\source\repos\Finns kanske i sjön Tim och Arvid GH\Test123\obj\Debug\net6.0\Test123.genruntimeconfig.cache
 C:\Users\arvid.gunnerlinghul\source\repos\Finns kanske i sjön Tim och Arvid GH\Test123\obj\Debug\net6.0\ref\Test123.dll
+C:\Users\arvid.gunnerlinghul\Desktop\Finns-kanske-i-sj-n-Tim-och-Arvid-GH\Test123\bin\Debug\net6.0\Test123.exe
+C:\Users\arvid.gunnerlinghul\Desktop\Finns-kanske-i-sj-n-Tim-och-Arvid-GH\Test123\bin\Debug\net6.0\Test123.deps.json
+C:\Users\arvid.gunnerlinghul\Desktop\Finns-kanske-i-sj-n-Tim-och-Arvid-GH\Test123\bin\Debug\net6.0\Test123.runtimeconfig.json
+C:\Users\arvid.gunnerlinghul\Desktop\Finns-kanske-i-sj-n-Tim-och-Arvid-GH\Test123\bin\Debug\net6.0\Test123.dll
+C:\Users\arvid.gunnerlinghul\Desktop\Finns-kanske-i-sj-n-Tim-och-Arvid-GH\Test123\bin\Debug\net6.0\Test123.pdb
+C:\Users\arvid.gunnerlinghul\Desktop\Finns-kanske-i-sj-n-Tim-och-Arvid-GH\Test123\obj\Debug\net6.0\Test123.csproj.AssemblyReference.cache
+C:\Users\arvid.gunnerlinghul\Desktop\Finns-kanske-i-sj-n-Tim-och-Arvid-GH\Test123\obj\Debug\net6.0\Test123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvid.gunnerlinghul\Desktop\Finns-kanske-i-sj-n-Tim-och-Arvid-GH\Test123\obj\Debug\net6.0\Test123.AssemblyInfoInputs.cache
+C:\Users\arvid.gunnerlinghul\Desktop\Finns-kanske-i-sj-n-Tim-och-Arvid-GH\Test123\obj\Debug\net6.0\Test123.AssemblyInfo.cs
+C:\Users\arvid.gunnerlinghul\Desktop\Finns-kanske-i-sj-n-Tim-och-Arvid-GH\Test123\obj\Debug\net6.0\Test123.csproj.CoreCompileInputs.cache
+C:\Users\arvid.gunnerlinghul\Desktop\Finns-kanske-i-sj-n-Tim-och-Arvid-GH\Test123\obj\Debug\net6.0\Test123.dll
+C:\Users\arvid.gunnerlinghul\Desktop\Finns-kanske-i-sj-n-Tim-och-Arvid-GH\Test123\obj\Debug\net6.0\refint\Test123.dll
+C:\Users\arvid.gunnerlinghul\Desktop\Finns-kanske-i-sj-n-Tim-och-Arvid-GH\Test123\obj\Debug\net6.0\Test123.pdb
+C:\Users\arvid.gunnerlinghul\Desktop\Finns-kanske-i-sj-n-Tim-och-Arvid-GH\Test123\obj\Debug\net6.0\Test123.genruntimeconfig.cache
+C:\Users\arvid.gunnerlinghul\Desktop\Finns-kanske-i-sj-n-Tim-och-Arvid-GH\Test123\obj\Debug\net6.0\ref\Test123.dll
